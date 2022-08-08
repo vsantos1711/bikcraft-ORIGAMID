@@ -39,7 +39,6 @@
     font-family: "Roboto";
     font-style: normal;
 }
-
 @media(max-width: 1200px){
     .introducao h1{
         font-size: 48px;
