@@ -26,6 +26,7 @@
     width: 460px;
     height: 520px;
     object-fit: cover;
+    object-position: center;
     margin-bottom: 16px;
 }
 .bicicletas-listas h3{
