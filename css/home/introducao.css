@@ -4,12 +4,8 @@
     box-shadow: inset 0px -120px 0px var(--cor-0);
 }
 .introducao{
-    max-width: 1200px;
-    box-sizing: border-box;
-    margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    padding: 0px 20px;
     gap: 0 40px;
 }
 .introducao img{

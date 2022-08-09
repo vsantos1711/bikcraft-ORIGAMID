@@ -6,11 +6,9 @@
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
-    box-sizing: border-box;
-    max-width: 1200px;
-    margin: 0 auto;
     gap: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .header-menu{
     display: flex;
