@@ -37,6 +37,9 @@
 .footer a:hover{
     color: var(--cor-0);
 }
+.footer a{
+    color: var(--cor-5);
+}
 @media(max-width:800px){
     .footer{
         grid-template-columns: 1fr 1fr;
