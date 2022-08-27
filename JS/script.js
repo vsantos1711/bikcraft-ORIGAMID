@@ -43,5 +43,8 @@ function eventosPerguntas(pergunta){
 
 perguntas.forEach(eventosPerguntas);
 
-//Galeria de imagens
+//Animções
 
+if(window.SimpleAnime){
+    new SimpleAnime();
+}
