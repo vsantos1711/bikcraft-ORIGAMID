@@ -42,3 +42,6 @@ function eventosPerguntas(pergunta){
 }
 
 perguntas.forEach(eventosPerguntas);
+
+//Galeria de imagens
+

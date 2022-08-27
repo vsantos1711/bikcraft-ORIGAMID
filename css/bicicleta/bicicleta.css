@@ -9,12 +9,13 @@
 #bicicleta .titulo p{
     text-transform: uppercase;
 }
-.bicicleta-imagens{
+.bicicleta-imagens {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
 }
-.bicicleta-imagens img{
+
+.bicicleta-imagens a{
     flex: 1;
     min-width: 200px;
 }
